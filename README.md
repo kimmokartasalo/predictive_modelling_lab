@@ -10,5 +10,5 @@ https://github.com/kimmokartasalo/predictive_modelling_lab
 
 Select the repository: *kimmokartasalo/predictive_modelling_lab*, branch *main*, and select one of the notebooks:
  
-- dl_lab.ipynb (Lab 1)
+- dl_lab_1.ipynb (Lab 1)
 - dl_lab_2.ipynb (Lab 2
